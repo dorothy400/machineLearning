@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MachineLearning:jar">
+    <output-path>$PROJECT_DIR$/outJar</output-path>
+    <root id="archive" name="MachineLearning.jar">
+      <element id="module-output" name="MachineLearning" />
+    </root>
+  </artifact>
+</component>

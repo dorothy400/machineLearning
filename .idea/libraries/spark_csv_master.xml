@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-csv-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../spark-ml/spark-csv-master.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
